@@ -4,9 +4,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasrana0007&label=Profile%20views&color=0e75b6&style=flat" alt="vikasrana0007" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikasrana0007" alt="vikasrana0007" /></a> </p>
 
 - 🔭 I’m currently working on **ReactJs Projects**
 
