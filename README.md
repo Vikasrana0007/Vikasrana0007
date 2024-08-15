@@ -3,10 +3,10 @@
 <h1 align="center">Hi 👋, I'm Vikas Rana</h1>
 
 
-<p align="center">
-  <strong>Frontend Intern @ PrintSaathi | Learning MERN Stack, Python, & C++ DSA | LPU - BCA (Final Year)</strong>
-</p>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">
+  <strong>Frontend Intern @PrintSaathi | Learning MERN Stack, Python, & C++ DSA | LPU - BCA (Final Year)</strong>
+</h3>
+<br/>
 
 - 🔭 I’m currently working on **ReactJs Projects**
 - 🌱 I’m currently learning **MERN stack**
