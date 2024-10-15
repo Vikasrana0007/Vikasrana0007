@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-  <strong>Frontend Intern @PrintSaathi | Learning MERN Stack, Python, & C++ DSA | LPU - BCA (Final Year)</strong>
+  <strong>Learning MERN Stack, Python, & C++ DSA | LPU - BCA (Final Year)</strong>
 </h3>
 
 <img align="center" src="https://pbs.twimg.com/profile_banners/1586358231131369473/1707581617/1080x360" alt="banner" />
