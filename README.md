@@ -5,18 +5,18 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vikasrana0007&label=Profile%20views&color=0e75b6&style=flat" alt="Vikasrana0007" />
 </p>
-<p align="center">💻 **"Passionate about coding, always learning, and building awesome things!"** 🚀</p>
-
+<p align="center">💻 <strong>"Passionate about coding, always learning, and building awesome things!"</strong> 🚀</p>
 
 <h3 align="center">
- 🚀 MERN Stack Developer | Next.js Enthusiast | Python & C++ Learner
+🚀 Assistant Software Developer | Next.js & TypeScript | .NET & SQL | MERN Stack
 </h3>
 
 ---
 
 ### 🌱 About Me 
-- 🌍 Currently learning **MERN Stack, Next.js, and TypeScript**.  
-- 🤖 Exploring **Python** for AI & automation.  
+- 💼 Currently working as an **Assistant Software Developer**
+- 🚀 Skilled in **Next.js**, **TypeScript**, **.NET**, **SQL**, and the **MERN Stack**
+  
 - 📩 Reach me at **vikasrana2583@gmail.com**  
 
 ---
@@ -47,13 +47,16 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
 </p>
-
----
-
