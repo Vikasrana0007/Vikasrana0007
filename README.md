@@ -15,7 +15,7 @@
 
 ### 🌱 About Me 
 - 💼 Currently working as an **Assistant Software Developer**
-- 🚀 Skilled in **Next.js**, **TypeScript**, **.NET**, **SQL**, and the **MERN Stack**
+- 🚀  **Next.js**, **TypeScript**, **.NET**, **SQL**, and the **MERN Stack**
   
 - 📩 Reach me at **vikasrana2583@gmail.com**  
 
