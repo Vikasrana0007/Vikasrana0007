@@ -1,10 +1,10 @@
 <img align="right" src="https://raw.githubusercontent.com/4r7if3x/4r7if3x/main/.assets/developer.gif" alt="Developer Gif"/>
 
-<h1 align="center">Hi 👋, I'm Vikas Rana</h1>
-
-<p align="center">
+<h1 align="center">Hi 👋, I'm Vikas Rana <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vikasrana0007&label=Profile%20views&color=0e75b6&style=flat" alt="Vikasrana0007" />
-</p>
+</p></h1>
+
+
 <p align="center">💻 <strong>"Passionate about coding, always learning, and building awesome things!"</strong> 🚀</p>
 
 <h3 align="center">
