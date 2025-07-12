@@ -4,9 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=Vikasrana0007&label=Profile%20views&color=0e75b6&style=flat" alt="Vikasrana0007" />
 </p></h1>
 
-
-<p align="center">💻 <strong>"Passionate about coding, always learning, and building awesome things!"</strong> 🚀</p>
-
 <h3 align="center">
 🚀 Assistant Software Developer | Next.js & TypeScript | .NET & SQL | MERN Stack
 </h3>
